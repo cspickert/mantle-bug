@@ -1,0 +1,1 @@
+This is a sample project demonstrating a bug encountered in Mantle 2.0.3. The problem is that recursive JSON schemas cause infinite recursion just prior to parsing data.
